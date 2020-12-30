@@ -21,7 +21,7 @@ import ReviewsCanteen from "./ReviewsCanteen";
 const App = () => {
   const { currentUser } = useAuth();
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <>
         {currentUser ? <Header title="Grievance System" /> : null}
         <Switch>
