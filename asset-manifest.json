@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/grievance-system-wce/static/js/main.ae68afa9.chunk.js",
-    "main.js.map": "/grievance-system-wce/static/js/main.ae68afa9.chunk.js.map",
+    "main.js": "/grievance-system-wce/static/js/main.b098f826.chunk.js",
+    "main.js.map": "/grievance-system-wce/static/js/main.b098f826.chunk.js.map",
     "runtime-main.js": "/grievance-system-wce/static/js/runtime-main.a6075b52.js",
     "runtime-main.js.map": "/grievance-system-wce/static/js/runtime-main.a6075b52.js.map",
     "static/js/2.85b424dd.chunk.js": "/grievance-system-wce/static/js/2.85b424dd.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.a6075b52.js",
     "static/js/2.85b424dd.chunk.js",
-    "static/js/main.ae68afa9.chunk.js"
+    "static/js/main.b098f826.chunk.js"
   ]
 }
